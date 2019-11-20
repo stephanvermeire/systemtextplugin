@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "SoSweetHoney";
+  src: url("fonts/SoSweetHoney.eot"); /* IE9 Compat Modes */
+  src: url("fonts/SoSweetHoney.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("fonts/SoSweetHoney.otf") format("opentype"), /* Open Type Font */
+    url("fonts/SoSweetHoney.svg") format("svg"), /* Legacy iOS */
+    url("fonts/SoSweetHoney.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("fonts/SoSweetHoney.woff") format("woff"), /* Modern Browsers */
+    url("fonts/SoSweetHoney.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
